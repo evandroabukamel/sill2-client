@@ -1,0 +1,9 @@
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\bin\Release\sill2-client.exe.config
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\bin\Release\sill2-client.exe
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\bin\Release\sill2-client.pdb
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\bin\Release\MySql.Data.dll
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\obj\x86\Release\sill2_client.sill2_client_form.resources
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\obj\x86\Release\sill2-client.csproj.GenerateResource.Cache
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\obj\x86\Release\sill2-client.exe
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\obj\x86\Release\sill2-client.pdb
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\bin\Release\MySql.Data.xml

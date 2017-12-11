@@ -1,0 +1,42 @@
+D:\Projects\Visual Studio 2010\Projects\sill2-client\sill2-client\bin\Debug\sill2-client.exe
+D:\Projects\Visual Studio 2010\Projects\sill2-client\sill2-client\bin\Debug\sill2-client.pdb
+D:\Projects\Visual Studio 2010\Projects\sill2-client\sill2-client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Visual Studio 2010\Projects\sill2-client\sill2-client\obj\x86\Debug\sill2-client.exe
+D:\Projects\Visual Studio 2010\Projects\sill2-client\sill2-client\obj\x86\Debug\sill2-client.pdb
+C:\Users\suportesg\Visual Studio 2010\Projects\sill2-client\sill2-client\obj\x86\Debug\sill2-client.exe
+C:\Users\suportesg\Visual Studio 2010\Projects\sill2-client\sill2-client\obj\x86\Debug\sill2-client.pdb
+C:\Users\suportesg\Visual Studio 2010\Projects\sill2-client\sill2-client\bin\Debug\sill2-client.exe
+C:\Users\suportesg\Visual Studio 2010\Projects\sill2-client\sill2-client\bin\Debug\sill2-client.pdb
+C:\Users\suportesg\Visual Studio 2010\Projects\sill2-client\sill2-client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suportesg\Visual Studio 2010\Projects\sill2-client\sill2-client\bin\Debug\sill2-client.exe.config
+C:\Users\suportesg\Documents\Visual Studio 2010\Projects\sill2-client\sill2-client\bin\Debug\sill2-client.exe.config
+C:\Users\suportesg\Documents\Visual Studio 2010\Projects\sill2-client\sill2-client\obj\x86\Debug\sill2-client.exe
+C:\Users\suportesg\Documents\Visual Studio 2010\Projects\sill2-client\sill2-client\obj\x86\Debug\sill2-client.pdb
+C:\Users\suportesg\Documents\Visual Studio 2010\Projects\sill2-client\sill2-client\bin\Debug\sill2-client.exe
+C:\Users\suportesg\Documents\Visual Studio 2010\Projects\sill2-client\sill2-client\bin\Debug\sill2-client.pdb
+C:\Users\suportesg\Documents\Visual Studio 2010\Projects\sill2-client\sill2-client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Visual Studio 2010\Projects\sill2-client\sill2-client\bin\Debug\sill2-client.exe.config
+D:\Dropbox\Projects\Visual Studio 2010\Projects\sill2-client\sill2-client\bin\Debug\sill2-client.exe.config
+D:\Dropbox\Projects\Visual Studio 2010\Projects\sill2-client\sill2-client\obj\x86\Debug\sill2-client.exe
+D:\Dropbox\Projects\Visual Studio 2010\Projects\sill2-client\sill2-client\obj\x86\Debug\sill2-client.pdb
+D:\Dropbox\Projects\Visual Studio 2010\Projects\sill2-client\sill2-client\bin\Debug\sill2-client.exe
+D:\Dropbox\Projects\Visual Studio 2010\Projects\sill2-client\sill2-client\bin\Debug\sill2-client.pdb
+D:\Dropbox\Projects\Visual Studio 2010\Projects\sill2-client\sill2-client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\687748\Downloads\sill2-client\sill2-client\bin\Debug\sill2-client.exe.config
+C:\Users\687748\Downloads\sill2-client\sill2-client\obj\x86\Debug\sill2-client.exe
+C:\Users\687748\Downloads\sill2-client\sill2-client\obj\x86\Debug\sill2-client.pdb
+C:\Users\687748\Downloads\sill2-client\sill2-client\bin\Debug\sill2-client.exe
+C:\Users\687748\Downloads\sill2-client\sill2-client\bin\Debug\sill2-client.pdb
+C:\Users\687748\Downloads\sill2-client\sill2-client\bin\Debug\MySql.Data.dll
+C:\Users\687748\Downloads\sill2-client\sill2-client\obj\x86\Debug\sill2_client.sill2_client_form.resources
+C:\Users\687748\Downloads\sill2-client\sill2-client\obj\x86\Debug\sill2-client.csproj.GenerateResource.Cache
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\bin\Debug\sill2-client.exe.config
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\obj\x86\Debug\sill2-client.exe
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\obj\x86\Debug\sill2-client.pdb
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\bin\Debug\sill2-client.exe
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\bin\Debug\sill2-client.pdb
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\obj\x86\Debug\sill2_client.sill2_client_form.resources
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\obj\x86\Debug\sill2-client.csproj.GenerateResource.Cache
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\obj\x86\Debug\sill2-client.csprojResolveAssemblyReference.cache
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\bin\Debug\MySql.Data.dll
+C:\Users\687748\Documents\Visual Studio 2015\Projects\sill2-client\sill2-client\bin\Debug\MySql.Data.xml
